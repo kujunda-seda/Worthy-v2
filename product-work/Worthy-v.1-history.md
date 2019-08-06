@@ -15,6 +15,9 @@ The classic Worthy app has the following features:
 	- Initial balance
 2. Edit an account (modify the above properties)
 3. Delete an account
+4. Add/rename account group
+5. Reorder account groups
+6. Total net worth calculation in chosen currency using current exchange rates
 
 ## Transactions
 
@@ -32,11 +35,19 @@ The classic Worthy app has the following features:
 	- Transaction memo
 2. Edit a transaction
 3. Delete a transaction
+4. Automatic transfer amount according to exchange rate for date
+5. Create account adjustment transaction specifying balance for date and autocaluculated amount
+6. Add/delete category when selecting it for a transaction
+
 
 ## Spending
 
 1. Group transactions by period and by category
 	- sum is calculated from amounts converted to base currency based on exchange rates history
+2. See all transactions for selected category
+3. Merge multiple categories into single one (modifying all included transactions)
+4. Delete category without deleting transactions
+5. Group categories by income and expense automatically
 
 ## Currencies
 
