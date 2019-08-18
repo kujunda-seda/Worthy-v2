@@ -2,15 +2,16 @@
 
 ## Project organization
 
-1. A master version of the project is stored on the GitHub service. The official repository name is `worthy-v2` (or __Repo__)
+1. A master version of the project is stored on the GitHub service.
+2. The official repository name is `worthy-v2` (or __Repo__).
 2. __Repo__ is owned by Kujunda Seda OÜ - a design bureau, based in Tallinn, Estonia.
 3. __Repo__ is the single _source of truth_ for the project.
-4. All other communications related to the project (phone calls, meetings, Slack, emails etc.) are considered secondary. Important results of such communications must be saved either as project issues or in project documentation.
+4. All other communications related to the project (phone calls, meetings, Slack, emails etc.) are considered secondary. Important results of such communications must be saved either as project issues or in project documentation. Everything else may be safely discarded.
 
 ## Documentation rules
 
 1. All project documentation must be stored in the __Repo__'s `documentation` folder.
-2. The only exception to the rule above is the default README.md file, which is stored in the __Repo__ root and aims to give an overview of the project to outside users.
+2. The only exception to the rule above is the default `README.md` file, which is stored in the __Repo__ root and aims to give an overview of the project to outside users.
 3. All project documentation must be in English.
 
 ## Issues and milestones
