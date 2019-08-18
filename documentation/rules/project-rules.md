@@ -20,3 +20,9 @@
 2. Major important stages of the project should be created as GitHub _milestones_.
 3. It is possible to skip creating an issue if the time required to implement a fix for the issue is comparable with the time necessary to create an issue ticket on GitHub.
 4. Still, if the issue is important enough to be saved in project history, the issue must be created.
+
+## File naming convention
+
+1. Files and folders should be named in lower case with spaces replaced by dash `-`.
+2. All unnecessary words should be skipped, e.g. `The product features for version 1.0` should be named `product-features-1.0.md`.
+3. Generated files with predefined rules should be left as is, e.g. GitHub `ISSUE_TEMPLATE` or Flutter `worthy_app`.
