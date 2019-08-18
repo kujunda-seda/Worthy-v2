@@ -67,3 +67,7 @@ The new Worthy v. 2 app will have the following feature set for version 1.0
 
 1. **(new feature)** Multi-user support
 2. **(new feature)** Backup / import / export of raw data
+
+## Conclusion
+
+We will need to develop an architectural solution based on the above feature set.
