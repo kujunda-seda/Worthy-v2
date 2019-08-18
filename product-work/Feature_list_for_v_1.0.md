@@ -23,7 +23,7 @@ The new Worthy v. 2 app will have the following feature set for version 1.0
 ## Transactions
 
 1. Create a transaction (with the following properties):
-	- Transaction account (implicit, a transaction belongs to an account)
+	- Transaction account ~~(implicit, a transaction belongs to an account)~~
 	- Transaction date
 	- Transaction amount
 	- Transaction type:
@@ -36,7 +36,7 @@ The new Worthy v. 2 app will have the following feature set for version 1.0
 	- Transaction memo
 2. Edit a transaction
 3. Delete a transaction
-4. **(remove feature)** Automatic transfer amount according to exchange rate for date
+4. ~~Automatic transfer amount according to exchange rate for date~~
 5. Create account adjustment transaction specifying balance for date and autocaluculated amount
 6. Add/delete category when selecting it for a transaction
 7. **(new feature)** Sort categories and accounts in transaction edit screen according to how often they are used
@@ -57,9 +57,9 @@ The new Worthy v. 2 app will have the following feature set for version 1.0
 1. Add a new currency (the only property is Name)
 2. Edit a currency (i.e. it's Name)
 3. Delete a currency
-4. **(remove feature)** Add an exchange rate historic value
-5. **(remove feature)** Edit an exchange rate historic value
-6. **(remove feature)** Remove an exchange rate historic value
+4. ~~Add an exchange rate historic value~~
+5. ~~Edit an exchange rate historic value~~
+6. ~~Remove an exchange rate historic value~~
 7. Set/change base currency
 8. **(new feature)** Automatic currency history (for net worth and spending calculations)
 
